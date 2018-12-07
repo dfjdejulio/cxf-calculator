@@ -35,7 +35,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<defaultGoal>package</defaultGoal>
+		<defaultGoal>jetty:run</defaultGoal>
 		<pluginManagement>
 			<plugins>
 				<plugin>
